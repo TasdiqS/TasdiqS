@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TasdiqS
-- 👀 I’m interested in Java, Angular and BlockChain
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in Java, Angular
+- 🌱 I’m currently learning Angular Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tasdiqspace@gmail.com
 
